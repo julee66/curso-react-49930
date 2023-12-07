@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Amaranth';
+    color: #663B3B;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4rem;
+    background-color: rgba(249, 233, 221, 0.6);
+}
+
+#navbar h1 {
+    font-size: 3.2rem;
+    margin-left: 1rem;
+}
+
+#navbar ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 25rem;
+    font-size: larger;
+    list-style: none;
+}
+
+#navbar a {
+    text-decoration: none;
+}
+
+#cartwidget {
+    display: flex;
+    width: 5rem;
+    justify-content: space-evenly;
+
+}
+
