@@ -14,7 +14,7 @@
     background-color: rgba(249, 233, 221, 0.6);
 }
 
-#navbar h1 {
+#navbar .logo {
     font-size: 3.2rem;
     margin-left: 1rem;
 }
@@ -22,7 +22,7 @@
 #navbar ul {
     display: flex;
     justify-content: space-evenly;
-    width: 25rem;
+    width: 60rem;
     font-size: larger;
     list-style: none;
 }

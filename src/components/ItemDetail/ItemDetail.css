@@ -1,0 +1,11 @@
+.itemDetail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5rem;
+}
+
+.itemDetail .precio {
+    font-weight: bolder;
+}
