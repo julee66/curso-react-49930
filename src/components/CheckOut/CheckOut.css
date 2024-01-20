@@ -1,0 +1,36 @@
+.form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 34%;
+}
+
+.form .boton {
+    margin-top: 1.5rem;
+    font-weight: bolder;
+    font-size: larger;
+    border: solid;
+    border-color: rgb(222, 205, 184);
+    background-color: white;
+    padding: 10px;
+}
+
+.form input{
+    font-size: 20px;
+    padding: 10px 5px;
+    margin: 10px 0;
+}
+
+.ordenGenerada {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 40%;
+}
+
+.ordenGenerada .nrOrden {
+    padding: 15px;
+    padding-left: 30px;
+}
